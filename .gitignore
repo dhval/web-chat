@@ -1,0 +1,21 @@
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+tmp*
+
+#java specific
+*.class
+#.jar
+*.war
+*.ear
+*.bak
+*.classpath
+*.project
+*.springBeans
+
+*target/*
+*.settings/*
+
+
